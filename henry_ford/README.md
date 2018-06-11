@@ -1,5 +1,8 @@
 # HenryFord
-
+Once you finish making a change you want to run git add .
+Run git commit -m " "
+Run git push origin master
+After that changes should be on github
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/henry_ford`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
